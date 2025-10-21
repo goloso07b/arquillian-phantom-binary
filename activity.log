@@ -29,3 +29,5 @@
 2025-02-22 20:18:00 | WARN | repo=arquillian-phantom-binary | action=commit
 2025-11-28 08:29:00 | DEBUG | repo=arquillian-phantom-binary | action=edit | files=1
 2025-05-26 11:51:00 | WARN | repo=arquillian-phantom-binary | action=commit
+2025-08-06 07:12:00 | WARN | repo=arquillian-phantom-binary | action=pull
+2025-10-21 12:26:00 | DEBUG | repo=arquillian-phantom-binary | action=commit
